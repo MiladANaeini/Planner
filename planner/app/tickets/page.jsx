@@ -1,8 +1,21 @@
 import React from 'react'
+import TicketsList from './TicketList'
 
 function Tickets() {
   return (
-    <div>Tickets</div>
+    <main>
+      <nav>
+        <div>
+          <h2>
+            Tickets
+          </h2>
+          <p><small>
+            Current open tickets
+            </small></p>
+        </div>
+      </nav>
+      <TicketsList/>
+      </main>
   )
 }
 
