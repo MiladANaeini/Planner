@@ -1,25 +1,25 @@
 {
-    "tickets": [
-      {
-        "id": "1",
-        "title": "Add some content to the page",
-        "body": "This is the body for the task. Here we explain the task and do whatever the task needs us to do and get it done on time and I do not know what else to say here it is certainly some text and contet",
-        "priority": "High",
-        "user_email": "gigi@planner.com"
-      },
-      {
-        "id": "2",
-        "title": "Call new endpoints for the user",
-        "body": "This is the body for the task. Here we explain the task and do whatever the task needs us to do and get it done on time and I do not know what else to say here it is certainly some text and contet",
-        "priority": "Medium",
-        "user_email": "milad@planner.com"
-      },
-      {
-        "id": "3",
-        "title": "Add new forms to the component",
-        "body": "This is the body for the task. Here we explain the task and do whatever the task needs us to do and get it done on time and I do not know what else to say here it is certainly some text and contet",
-        "priority": "Low",
-        "user_email": "mandy@planner.com"
-      }
-    ]
-  }
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Add some content to the page",
+      "body": "This is the body for the task. Here we explain the task and do whatever the task needs us to do and get it done on time and I do not know what else to say here it is certainly some text and contet",
+      "priority": "High",
+      "user_email": "gigi@planner.com"
+    },
+    {
+      "id": "2",
+      "title": "Call new endpoints for the user",
+      "body": "This is the body for the task. Here we explain the task and do whatever the task needs us to do and get it done on time and I do not know what else to say here it is certainly some text and contet",
+      "priority": "Medium",
+      "user_email": "milad@planner.com"
+    },
+    {
+      "id": "3",
+      "title": "Add new forms to the component",
+      "body": "This is the body for the task. Here we explain the task and do whatever the task needs us to do and get it done on time and I do not know what else to say here it is certainly some text and contet",
+      "priority": "Low",
+      "user_email": "mandy@planner.com"
+    }
+  ]
+}
